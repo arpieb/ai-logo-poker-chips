@@ -4,10 +4,10 @@
 single parametric OpenSCAD model. Drop any single-color SVG into `logos/` and
 you get a chip for it.
 
-| | | | | | |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![ChatGPT](previews/chip_chatgpt.png) | ![Claude](previews/chip_claude-ai-symbol.png) | ![DeepSeek](previews/chip_deepseek.png) | ![Gemini](previews/chip_google-gemini-sparkle.png) | ![Muse](previews/chip_muse.png) | ![Ollama](previews/chip_ollama-icon.png) |
-| ChatGPT | Claude | DeepSeek | Gemini | Muse | Ollama |
+| | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ![ChatGPT](previews/chip_chatgpt.png) | ![Claude](previews/chip_claude-ai-symbol.png) | ![DeepSeek](previews/chip_deepseek.png) | ![Gemini](previews/chip_google-gemini-sparkle.png) | ![Muse](previews/chip_muse.png) | ![Ollama](previews/chip_ollama-icon.png) | ![OpenRouter](previews/chip_openrouter.png) |
+| ChatGPT | Claude | DeepSeek | Gemini | Muse | Ollama | OpenRouter |
 
 Chips are standard casino size: 39 mm across and 3.3 mm thick. The logo and a
 decorative ring are inlaid flush on both faces, mirrored on the back so they
